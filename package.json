@@ -1,10 +1,10 @@
 {
-  "name": "angular2-webpack-starter",
-  "version": "0.0.0",
-  "description": "An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack by AngularClass",
-  "author": "Patrick Stapleton <patrick@angularclass.com>",
-  "homepage": "https://github.com/angularclass/angular2-webpack-starter",
-  "license": "MIT",
+  "name": "borrower.io",
+  "version": "0.0.1",
+  "description": "Application to help manage those who borrow.",
+  "author": "Graham Mills <graham.richard.mills@gmail.com>",
+  "homepage": "http://www.borrower.io",
+  "license": "UNLICENSED",
   "scripts": {
     "clean": "./node_modules/.bin/rimraf node_modules doc typings coverage dist && npm cache clean",
     "clean:dist": "./node_modules/.bin/rimraf dist",
@@ -78,10 +78,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angularclass/angular2-webpack-starter.git"
+    "url": "https://github.com/grahammills/borrower.io.git"
   },
   "bugs": {
-    "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
+    "url": "https://github.com/grahammills/borrower.io/issues"
   },
   "engines": {
     "node": ">= 4.2.1 <= 5",
